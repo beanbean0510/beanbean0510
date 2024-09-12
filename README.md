@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://raw.githubusercontent.com/beanbean0510/beanbean0510/output/github-contribution-grid-snake.svg)
+
 <!--
 **beanbean0510/beanbean0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
